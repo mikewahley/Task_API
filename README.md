@@ -5,11 +5,17 @@ Features
 
 
 User Registration & JWT-based Login
+
 Create / Read / Update / Delete tasks
+
 Assign tasks to authenticated users only
+
 Password hashing (with bcrypt)
+
 PostgreSQL for persistent storage
+
 Swagger UI for interactive API testing
+
 Modular structure for easy scalability
 
 
